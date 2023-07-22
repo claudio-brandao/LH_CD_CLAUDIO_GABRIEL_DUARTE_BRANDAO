@@ -14,4 +14,6 @@ O objetivo deste projeto é realizar a predição de preço de carro.
 
 
 # Relatório
+
+- RELATÓRIO_LH_CD_CLAUDIO_GABRIEL_DUARTE_BRANDAO.pdf
   
