@@ -1,1 +1,2 @@
-# LH_CD_CLAUDIO_GABRIEL_DUARTE_BRANDAO
+# Desafio Cientista de Dados - Indicium 
+O objetivo deste projeto é realizar a predição de preço de carro.
